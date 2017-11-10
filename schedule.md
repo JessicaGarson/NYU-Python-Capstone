@@ -3,6 +3,10 @@
 ## Nov 15, 2017
 We 6:00PM - 9:00PM
 Bldg:MIDC  Room:1018 Loc: Midtown Center
+- Overview of the rest of class 
+- Expectations for your project 
+- What makes a good project 
+- Getting started is the hardest part
 
 ## Nov 18, 2017   
 Sa 10:00AM - 3:00PM
