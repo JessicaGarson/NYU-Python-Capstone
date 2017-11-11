@@ -10,4 +10,4 @@ There is an array of software to help you create your wireframe.
 
 - [Moqups](https://moqups.com/)
 
-- [balsamiq](https://balsamiq.com/]
+- [balsamiq](https://balsamiq.com/)
