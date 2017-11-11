@@ -1,5 +1,5 @@
 # About
-Slides for this class are found [here]()
+Slides for this class are found [here](http://jessicagarson.com/python-capstone-nov-15/)
 For this class we are going to get started diving deep into our project.
 
 For this class we'll be going through the following:
