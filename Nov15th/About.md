@@ -9,6 +9,6 @@ For this class we'll be going through the following:
 - Impact vs Time activity
 - Getting started is the hardest part
 - Wireframes
-- Time to work on wireframes in class
+- Time to work on your project in class
 
 We'll get started by writing out our ideas and placing them in the our ideas folder. We'll discuss what makes a good project and exceptions.  
