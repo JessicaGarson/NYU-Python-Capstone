@@ -1,1 +1,1 @@
-# NYU-Python-Capstone
+# NYU Python Capstone
