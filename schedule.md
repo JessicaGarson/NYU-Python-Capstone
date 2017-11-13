@@ -17,7 +17,9 @@ Bldg:MIDC  Room:504 Loc: Midtown Center
 - What makes a good code review?
 - How code reviews make us better programmers
 - Virtual code reviews
-- In person code reviews 
+- In person code reviews
+- Discussion of code reviews 
+- Special Guest - Kate Rabinowitz
      
 ## Nov 29, 2017
 We 6:00PM - 9:00PM
