@@ -9,9 +9,15 @@ Bldg:MIDC  Room:1018 Loc: Midtown Center
 - Impact vs Time actvity 
 - Getting started is the hardest part
 
+For the next class - make sure you have some code written. 
+
 ## Nov 18, 2017   
 Sa 10:00AM - 3:00PM
 Bldg:MIDC  Room:504 Loc: Midtown Center
+- What makes a good code review?
+- How code reviews make us better programmers
+- Virtual code reviews
+- In person code reviews 
      
 ## Nov 29, 2017
 We 6:00PM - 9:00PM
