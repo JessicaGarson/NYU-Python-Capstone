@@ -16,3 +16,7 @@
 [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?s=books&ie=UTF8&qid=1510598926&sr=1-1&keywords=clean+code)
 
 [Flask](https://www.amazon.com/Flask-Web-Development-Developing-Applications/dp/1491991739/ref=sr_1_2?s=books&ie=UTF8&qid=1510598973&sr=1-2&keywords=flask)
+
+[Automate the Boring Stuff with Python](https://www.amazon.com/Automate-Boring-Stuff-Python-Programming/dp/1593275994/ref=sr_1_1?ie=UTF8&qid=1510599235&sr=8-1&keywords=automate+the+boring+stuff+with+python)
+
+[Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/ref=sr_1_2?s=books&ie=UTF8&qid=1510599474&sr=1-2&keywords=machine+learning+with+python)
