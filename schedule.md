@@ -25,9 +25,9 @@ Bldg:MIDC  Room:504 Loc: Midtown Center
 We 6:00PM - 9:00PM
 Bldg:MIDC  Room:1018 Loc: Midtown Center
 
-## Dec 6, 2017
-We 6:00PM - 9:00PM
-Bldg:MIDC  Room:1018 Loc: Midtown Center
+## Dec 7, 2017
+Th 6:00PM - 9:00PM
+TBD
 
 ## Dec 9, 2017
 Sa 10:00AM - 3:00PM
