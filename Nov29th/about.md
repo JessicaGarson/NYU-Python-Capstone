@@ -13,7 +13,7 @@ We'll talk about the situations when you would use pair programming and when you
 # Pair Programming
 We're going to pair up and you will write code for a project that's not yours. Halfway through we'll switch.
 
-# Presentations of the Code we Worked on Tonight
+# Presentations From Pair Programing
 We'll do a 5 minute presentations for each pair about the code we wrote together.
 
 # What Worked?
