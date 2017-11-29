@@ -24,6 +24,9 @@ Bldg:MIDC  Room:504 Loc: Midtown Center
 ## Nov 29, 2017
 We 6:00PM - 9:00PM
 Bldg:MIDC  Room:1018 Loc: Midtown Center
+- Presentations on projects
+- Pair programming deep dive
+- Writing code for another's project
 
 ## Dec 7, 2017
 Th 6:00PM - 9:00PM
