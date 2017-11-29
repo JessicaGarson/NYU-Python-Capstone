@@ -3,16 +3,16 @@
 ## A traditional for loop
 ```python
 for (set of values to iterate):
-  if (conditional filtering): 
+  if (conditional filtering):
     output_expression()
 ```
-    
-## List Comprenshion 
+
+## List Comprehension
 ```python
 [ output_expression() for(set of values to iterate) if(conditional filtering) ]
 ```
 
-## Without List Comprehension 
+## Without List Comprehension
 ```python
 def no_vowels(sentence):
     vowels = 'aeiou'
