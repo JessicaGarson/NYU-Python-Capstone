@@ -33,7 +33,7 @@ Th 6:00PM - 9:00PM
 15 Barclay St, Rm 420
 - Code reviews
 - Mob coding activity 
-- Reed Spool - Web dev basics 
+- Special Guest - Reed Spool 
 
 ## Dec 9, 2017
 Sa 10:00AM - 3:00PM
