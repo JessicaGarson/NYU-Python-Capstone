@@ -28,9 +28,9 @@ Droplets are another low cost option for hosting.
 - [Django](https://www.digitalocean.com/community/tutorials/how-to-use-the-django-one-click-install-image-for-ubuntu-16-04)
 
 ## Heroku
-For today's class we'll be focusing on Heroku pretty heavily. We'll be doing a few live deploys of heroku.
+For today's class we'll be focusing on Heroku pretty heavily. We'll be doing a few live deploys of Heroku.
 
-We'll be doing the [heroku tutorial live](https://devcenter.heroku.com/articles/getting-started-with-python#set-up) and deploying our class site using [this method](https://coderwall.com/p/pstm1w/deploying-a-flask-app-at-heroku)
+We'll be doing the [heroku tutorial live](https://devcenter.heroku.com/articles/getting-started-with-python#set-up) and deploying our class site using [this method](https://coderwall.com/p/pstm1w/deploying-a-flask-app-at-heroku).
 
 ## Breaking Up Into Pairs
 We'll be breaking up into teams and deploying a project from last semester.  
