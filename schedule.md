@@ -38,6 +38,9 @@ Th 6:00PM - 9:00PM
 ## Dec 9, 2017
 Sa 10:00AM - 3:00PM
 Bldg:MIDC  Room:504 Loc: Midtown Center
+- Dev Ops Basics
+- Landscape of Deployment
+- Heroku Deep Dive 
 
 ## Dec 13, 2017
 We 6:00PM - 9:00PM
