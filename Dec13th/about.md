@@ -11,4 +11,4 @@ Select 2 students to review your project via GitHub. We'll be regrouping with af
 Ana Showing How She Deployed to Heroku on Saturday.
 
 ## Sam Agnew!
-Sam will be coming in to walk us through using APIs in a hands on way.
+Sam will be coming in to walk us through using APIs in a hands on way. [API workshop code](https://github.com/sagnew/APIs-101-workshop). 
