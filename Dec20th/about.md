@@ -1,5 +1,5 @@
 # About
-Tonight is our final class. We're going to show off our final projects and Jess will give some final thoughts about the class and next steps.
+Tonight is our final class. We're going to show off our final projects and Jess will give some final thoughts about the class and next steps. [Slides](http://jessicagarson.com/python-capstone-dec-20/#/).
 
 ## Business Items
 - Jessica's personal email is jessica.garson@gmail.com.
